@@ -1,0 +1,41 @@
+img.avatar{
+    width: auto !important;
+    display: inline;
+}
+ol.comment-list{
+    padding-inline-start: 0px !important;
+}
+a{
+    color:#42555e;
+}
+#nimawu ol li a {border-top-left-radius:.25rem;border-bottom-left-radius:.25rem;position:relative;display:block;padding:.5rem .75rem;margin-left:0;line-height:1.25;color:#007bff;background-color:#fff;border:1px solid #dee2e6;}
+#nimawu ol li span {border-top-left-radius:.25rem;border-bottom-left-radius:.25rem;position:relative;display:block;padding:.5rem .75rem;margin-left:0;line-height:1.25;color:#007bff;background-color:#fff;border:1px solid #dee2e6;}
+
+/*定义滚动条高宽及背景 高宽分别对应横竖滚动条的尺寸*/  
+::-webkit-scrollbar  
+{  
+    width: 1px;  
+    height: 5px;  
+    background-color: #F5F5F5;  
+}  
+/*定义滚动条轨道 内阴影+圆角*/  
+::-webkit-scrollbar-track  
+{  
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);  
+    border-radius: 10px;  
+    background-color: #F5F5F5;  
+}    
+/*定义滑块 内阴影+圆角*/  
+::-webkit-scrollbar-thumb  
+{  
+    border-radius: 10px;  
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);  
+    background-color: #51aaff;  
+}  
+/*滑块效果*/
+::-webkit-scrollbar-thumb:hover
+{
+border-radius: 5px;
+-webkit-box-shadow: inset 0 0 5px rgba(0,0,0,0.2);
+background: rgba(0,0,0,0.4);
+}
