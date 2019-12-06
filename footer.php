@@ -1,9 +1,9 @@
 <?php if (!defined('__TYPECHO_ROOT_DIR__')) exit; ?>
 <!-- Footer -->
 					<footer class="footer">
-                        &copy; <?php echo date('Y'); ?> 
-                        <a href="<?php $this->options->siteUrl(); ?>"><?php $this->options->title(); ?></a>.
-                        <?php _e('由 <a href="http://www.typecho.org">Typecho</a> 强力驱动'); ?>
+<button type="button" class="btn btn-default btn-lg" onclick="window.open('<?php $this->options->siteUrl(); ?>')"><small><?php $this->options->title(); ?></small></button>
+<button type="button" class="btn btn-default btn-lg" onclick="window.open('https://803344.xyz/')"><small>小宇宙</small></button>
+<button type="button" class="btn btn-default btn-lg" onclick="window.open('http://typecho.org/')"><small>Typecho</small></button>
                     </footer>
 		        </div>
 			</div>

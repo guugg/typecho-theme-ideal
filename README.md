@@ -24,6 +24,7 @@ Demo : 暂无确定；关注https://803344.xyz
 - [x] 主页
 - [x] 文章页
 - [x] 评论与回复，不一样的输入框
+- [x] 底部版权，别致的底部
 - [x] JSON自定义栏目
 - [x] JSOM自定义导航
 - [x] 相册
@@ -33,16 +34,23 @@ Demo : 暂无确定；关注https://803344.xyz
 
 ## 预览
 
-主页:
+- 主页:  
+
 ![ideal](https://cdn.jsdelivr.net/gh/guugg/typecho/2019-12-06/ideal.png)
 
 
-平板/手机:
+- 平板/手机:  
+
+
 ![ideal](https://cdn.jsdelivr.net/gh/guugg/typecho/2019-12-06/sj.png)
 
-相册页:
+- 相册页:  
+
 ![ideal](https://cdn.jsdelivr.net/gh/guugg/typecho/2019-12-06/sjxc.png)
 
+- 最新底部版权样式：
+
+![ideal](https://cdn.jsdelivr.net/gh/guugg/typecho/2019-12-06/meihua.png)
 
 ## 开始之前
 
