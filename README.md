@@ -32,7 +32,7 @@ Demo : 暂无确定；关注https://803344.xyz
 - [x] 标签页
 
 
-## 预览
+## 已完成预览
 
 - 主页:  
 
@@ -65,6 +65,23 @@ Demo : 暂无确定；关注https://803344.xyz
 ## 使用方法
 
 会typecho就行，或者查看我的博客里的简单介绍
+
+## 等待完成的功能
+
+1. 优化CDN加速问题
+2. 后台设置自定义CSS、JS等
+3. 尽力修复pajx问题
+
+
+- 第一步:  
+
+![ideal](https://cdn.jsdelivr.net/gh/guugg/typecho/2019-12-06/11.png)
+
+
+- 第二步:  
+
+![ideal](https://cdn.jsdelivr.net/gh/guugg/typecho/2019-12-06/22.png)
+
 
 ## 鸣谢
 
